@@ -61,7 +61,7 @@ GEM
       json
     awesome_print (1.6.1)
     binding_of_caller (0.7.3.pre1)
-      # debug_inspector (>= 0.0.1)
+      debug_inspector (>= 0.0.1)
     bootstrap_form (2.2.0)
     builder (3.2.2)
     byebug (1.8.2)
