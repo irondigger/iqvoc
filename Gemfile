@@ -45,9 +45,9 @@ gem 'autoprefixer-rails', '~> 5.1.8'
 
 # database adapters
 # comment out those you do don't need or use a different Gemfile
-gem 'mysql2', '~> 0.3.13'
+# gem 'mysql2', '~> 0.3.13'
 # gem 'sqlite3'
-# gem 'pg'
+gem 'pg'
 
 group :development do
   gem 'view_marker'
